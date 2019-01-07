@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\raw\\outgoing.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\raw\\beep.ogg"
+    }
+]

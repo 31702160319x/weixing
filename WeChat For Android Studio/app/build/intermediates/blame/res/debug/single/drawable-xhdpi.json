@@ -1,0 +1,886 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voice_unread.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\voice_unread.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\p0.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\p0.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_026.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_026.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_04.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_04.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_012.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_012.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_057.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_057.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\balloon_l_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\balloon_l_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_060.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_060.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_043.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_043.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_public.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\icon_public.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dx_checkbox_on.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\dx_checkbox_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_disabled.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voicesearch_feedback003.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\voicesearch_feedback003.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatfrom_voice_playing_f1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatfrom_voice_playing_f1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_02.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_02.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_panel_video_icon.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\app_panel_video_icon.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_059.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_059.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mm_listitem_disable.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\mm_listitem_disable.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_045.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_045.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voicesearch_feedback005.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\voicesearch_feedback005.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_031.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_031.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_038.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_038.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mm_listitem_simple.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\mm_listitem_simple.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_010.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_010.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatto_voice_playing_f2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatto_voice_playing_f2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_solid_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_016.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_016.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\input_bar_bg_normal.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\input_bar_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_019.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_019.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_047.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_047.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_022.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_022.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_tool_video.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_tool_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_06.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_06.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_00.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_00.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_028.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_028.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_041.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_041.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_voice_call_receive.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_voice_call_receive.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\balloon_l.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\balloon_l.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_051.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_051.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unread_count_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\unread_count_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_video_call_receive.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_video_call_receive.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_049.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_049.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatfrom_bg_focused.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_tool_camera.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_tool_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatto_bg_normal.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_item_file.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_item_file.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_tool_photo.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_tool_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_qunliao.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\icon_qunliao.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatting_setmode_keyboard_btn_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatting_setmode_keyboard_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_addfriend.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\icon_addfriend.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_marka.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\icon_marka.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\location_msg.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\location_msg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dx_checkbox_off.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\dx_checkbox_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_tip.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\icon_tip.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_034.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_034.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_048.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_048.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_029.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_029.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_053.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_053.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatto_voice_playing_f3.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatto_voice_playing_f3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_023.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_023.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_062.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_062.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_mute_on.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\icon_mute_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_cab_done_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\type_select_btn_pressed.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\type_select_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_tool_audio.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_tool_audio.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\p2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\p2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_024.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_024.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_039.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_039.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_groupinfo.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\icon_groupinfo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\skin_aio_user_bubble_nor.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_user_bubble_nor.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_052.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_052.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_selected_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_033.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_033.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mm_listitem_grey_normal.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\mm_listitem_grey_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_014.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_014.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voicesearch_feedback004.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\voicesearch_feedback004.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search_icon.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\type_select_btn_nor.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\type_select_btn_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatting_biaoqing_btn_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatting_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voicesearch_feedback002.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\voicesearch_feedback002.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_press_speak_btn_normal.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_press_speak_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\head.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\head.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_027.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_027.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_013.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_013.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_058.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_058.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_cab_done_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_press_speak_btn_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_press_speak_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\p1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\p1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\skin_aio_user_bubble_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_user_bubble_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_056.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_056.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatto_voice_playing_f1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatto_voice_playing_f1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_042.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_042.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_05.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_05.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mm_listitem_unread.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\mm_listitem_unread.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_061.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_061.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatfrom_voice_playing.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatfrom_voice_playing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatting_setmode_voice_btn_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatting_setmode_voice_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatting_setmode_keyboard_btn_pressed.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatting_setmode_keyboard_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mm_listitem_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\mm_listitem_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\input_bar_bg_active.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\input_bar_bg_active.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\p3.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\p3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_015.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_054.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_054.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_unread_count_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\tab_unread_count_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_032.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_032.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\msg_state_fail_resend.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\msg_state_fail_resend.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_speaker_on.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\icon_speaker_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voicesearch_feedback006.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\voicesearch_feedback006.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_mute_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\icon_mute_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voicesearch_feedback009.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\voicesearch_feedback009.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_044.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_044.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_025.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_025.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\oz.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\oz.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_03.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_03.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_09.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_09.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_video_mask_to.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_video_mask_to.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search_ba.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\search_ba.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatfrom_voice_playing_f2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatfrom_voice_playing_f2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_voice_call_self.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_voice_call_self.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voicesearch_feedback010.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\voicesearch_feedback010.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\refresh_image.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\refresh_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voicesearch_feedback008.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\voicesearch_feedback008.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_020.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_020.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_035.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_035.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voicesearch_feedback011.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\voicesearch_feedback011.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_tool_location.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_tool_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_021.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_021.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatto_voice_playing.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatto_voice_playing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_download_btn_nor.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\video_download_btn_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_08.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_08.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\p4.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\p4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_chat_user.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\icon_chat_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_050.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_050.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_video_call_self.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_video_call_self.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_018.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_018.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_037.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_037.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatting_biaoqing_btn_enable.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatting_biaoqing_btn_enable.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\oy.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\oy.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_07.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_07.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\mg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_01.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatfrom_voice_playing_f3.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatfrom_voice_playing_f3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_tool_send_file.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chat_tool_send_file.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_046.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_046.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\default_image.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_040.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_040.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_030.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_030.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_055.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_055.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_036.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_036.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatting_setmode_voice_btn_pressed.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatting_setmode_voice_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voicesearch_feedback001.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\voicesearch_feedback001.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_017.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_017.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\f_static_011.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\f_static_011.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_speaker_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\icon_speaker_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voicesearch_feedback007.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\voicesearch_feedback007.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chatfrom_bg_normal.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\chatfrom_bg_normal.9.png"
+    }
+]

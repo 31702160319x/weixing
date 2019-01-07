@@ -1,0 +1,7 @@
+#Mon Jan 07 18:28:07 CST 2019
+base.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bd26eb26bc4bb4a3d270abddc88aa509618c0bbc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8eea1f665907a4fa8f26faef003b769c78c8b28a\\classes.dex
+base.1=C\:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8eea1f665907a4fa8f26faef003b769c78c8b28a
+file.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\wechat-master\\WeChat For Android Studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bd26eb26bc4bb4a3d270abddc88aa509618c0bbc\\classes.dex

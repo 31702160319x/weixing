@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\libs\JunsNetHelper.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="847be7b7729e31bdec666e0b43d1f00b62ab6557">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\JunsNetHelper_37a39b0f47be668f793d6f5a06e202dfd352d05d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\libs\universal-image-loader-1.8.7-snapshot-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c9712c0ace25c14ba55c1f98741a0e6a6084d7b1">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.7-snapshot-with-sources_caf768b547a47ae30d52cd9f2483e9bb23e76775\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\libs\pushservice-4.4.0.71.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9509cfa0c9817d0905fc6f9b0d417a4730884966">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\pushservice-4.4.0.71_6f9260a597d7e7ee1a277b28196945e6e8fd81c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\libs\afinal-0.3.32-bin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="54417b03f2eb410e2a94428512e4f4218e7fc012">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\afinal-0.3.32-bin_3876a0464c7e89f3a91750498d98d6553026488e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\libs\easemobchat_2.1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="db85b4623b9d5c43156d802e3bc60f570dcb6ff7">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\easemobchat_2.1.5_3ac72495acab09ba0824ff1f810f689ddfb277da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b00fb53c1cc24f37721cbbad7f17ddb7deb8a3de">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8eea1f665907a4fa8f26faef003b769c78c8b28a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_v3_2_0_830bd83a014b37e77834656d63cb06d638b3d474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\libs\locSDK_3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_3.3_a5291f276ecbd9bb980cb051b8eb709f64e08bc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-18.0.0_6f666a9820099ddddffbae02ee626084597e41ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_11dcc602d29e592159b438ba0790c6e5defbbba8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\libs\JsonUtils.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c3b5a4f2e244dd8a3d55bfb430fcea53a4ad6bfa">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\JsonUtils_2b45b4efdc37d37bdbd62959a9cfe2db058760bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="597a36637bc47c862d5f733d2a10ecfd5f41bbb9">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bd26eb26bc4bb4a3d270abddc88aa509618c0bbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v5.2.4_f26e2613642950660416895d8647d04234c44579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\libs\zxing-1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="327bddfe22740db0419bd719a0f950b6ad2b3c3f">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing-1.6_869559b59df637caf23e4bf07760d7e96dafc6d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\wechat-master\WeChat For Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.3_5735c37102a8ed49ee8cf4d49678632a9ddfe7ab\classes.dex" />
+    </item>
+
+</items>
